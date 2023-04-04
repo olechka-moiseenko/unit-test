@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "\"Простой калькулятор на Node.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olechka-moiseenko/unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olechka-moiseenko/unit-test/issues"
+  },
+  "homepage": "https://github.com/olechka-moiseenko/unit-test#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
